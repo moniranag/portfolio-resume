@@ -1,0 +1,7 @@
+<a
+  href="/Monisha_Rana_Resume.pdf"
+  download
+  className="inline-block mt-4 bg-blue-600 text-white px-5 py-2 rounded-lg hover:bg-blue-700 transition-all duration-200"
+>
+  📄 Download Resume (PDF)
+</a>

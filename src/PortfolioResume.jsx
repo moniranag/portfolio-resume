@@ -15,6 +15,15 @@ export default function PortfolioResume() {
             monirana0138@gmail.com
           </p>
         </div>
+        <div className="text-center mt-4">
+          <a
+            href="/Monisha_Rana_Resume.pdf"
+            download
+            className="inline-block bg-blue-600 text-white px-5 py-2 rounded-lg hover:bg-blue-700 transition-all duration-200"
+          >
+            📄 Download Resume (PDF)
+          </a>
+        </div>
 
         {/* Skills */}
         <section>
